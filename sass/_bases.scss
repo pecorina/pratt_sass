@@ -1,0 +1,12 @@
+*{
+	font-family: $body_font;
+}
+
+.navbar-nav{
+	li:hover{
+		background-color: $background-uno;
+		a:hover{
+			color: $color_text_titulo;
+		}
+	}
+}
